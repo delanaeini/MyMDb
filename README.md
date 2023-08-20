@@ -10,10 +10,10 @@ React hooks practice in form of a movies/watched-movies list
 npm -v
 ```
 
-- Install package.json
+- Install node modules
 
 ```
-npm install package.json
+npm install
 ```
 
 - Run on local computer
