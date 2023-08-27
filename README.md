@@ -1,4 +1,4 @@
-# usePopcorn(in progress)
+# usePopcorn (in progress)
 
 React hooks practice in form of a movies/watched-movies list
 
