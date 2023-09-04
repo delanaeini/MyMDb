@@ -1,6 +1,6 @@
-# usePopcorn (in progress)
+# MyMDb
 
-React hooks practice in form of a movies/watched-movies list
+A React app to search, rate, and add movies to a personal watched-movies list
 
 ## Installation
 
